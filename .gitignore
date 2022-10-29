@@ -9,6 +9,7 @@ phar.php
 build.bat
 hash.bat
 sign.bat
+metadata.json
 _build.php
 Doxyfile
 /bower_components
