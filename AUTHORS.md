@@ -1,5 +1,5 @@
 # SSF-PHP Authors
 
-All auathors having contributed to this repository
+All authors having contributed to this repository
 
 * Tyler R. Drury
